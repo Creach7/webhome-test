@@ -1,0 +1,18 @@
+.navigation {}
+
+.navigation a {
+  padding: 5px;
+}
+
+.navigation p {
+  padding: 5px;
+  font-weight: bold;
+}
+
+.navigation-input {
+  margin: 10px;
+}
+
+.wrong-text{
+  background-color: red;
+}

@@ -1,0 +1,15 @@
+.item {
+  margin: 5px;
+}
+
+.item-name {
+  font-weight: bold;
+}
+
+.item p {
+  display: flex;
+  /* justify-content: flex-start;
+  align-items: flex-start; */
+  width: 100%;
+  overflow: hidden;
+}

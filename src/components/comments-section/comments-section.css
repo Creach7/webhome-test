@@ -1,0 +1,13 @@
+.list {
+  margin: 0px;
+  padding: 0px;
+}
+
+.list li {
+  border: 1px solid;
+  list-style-type: none;
+}
+
+.button-more {
+  margin-top: 10px;
+}

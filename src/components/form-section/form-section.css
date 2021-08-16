@@ -1,0 +1,12 @@
+.form-section__text {
+  resize: none;
+}
+
+.form-section__wrong_input {
+  background-color: red;
+}
+
+.input {
+  width: 100%;
+  margin-bottom: 10px;
+}
